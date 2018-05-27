@@ -1,0 +1,13 @@
+cat\meteo\dao\AbstractDao.class
+cat\meteo\App.class
+cat\meteo\service\MeteoService.class
+cat\meteo\service\MeteoServiceImpl.class
+cat\meteo\service\BatchUpdateServiceImpl.class
+cat\meteo\HibernateConfiguration.class
+cat\meteo\QuartzConfiguration.class
+cat\meteo\dao\MeteoDaoImpl.class
+cat\meteo\AppConfig.class
+cat\meteo\ws\client\MeteoPiRestClient.class
+cat\meteo\service\BatchUpdateService.class
+cat\meteo\domain\DadesMeteo.class
+cat\meteo\dao\MeteoDao.class

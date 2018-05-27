@@ -1,0 +1,5 @@
+cat\meteo\service\MeteoServiceTest.class
+cat\meteo\service\BatchUpdateServiceTest.class
+cat\meteo\ws\client\MeteoPiRestClientTest.class
+cat\meteo\service\MeteoServiceTest$ContextConfiguration.class
+cat\meteo\service\BatchUpdateServiceTest$ContextConfiguration.class
